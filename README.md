@@ -1,5 +1,7 @@
 # Prediksi Harga Uber dan Lyft di Boston Menggunakan Linear Regression
 
+buka link berikut untuk detail projectnya : <a href="[https://readme.com/](https://github.com/fachriansyahmh/Prediksi_Harga_Uber_dan_Lyft_di_Boston_Menggunakan_Linear_Regression/blob/main/PYTN_KampusMerdeka_FP1_Fachriansyah-Muhammad-Haikal.ipynb)" target="_blank">Project</a>
+
 ## Latar Belakang
 
 Seiring berjalannya waktu, pertumbuhan penduduk di dunia semakin meningkat, begitu pula dengan pertumbuhan penduduk di kota Boston, New York. Hal ini menyebabkan peningkatan kebutuhan masyarakat di kota Boston, termasuk kebutuhan akan transportasi publik seperti Uber dan Lyft. Uber dan Lyft adalah dua perusahaan layanan transportasi berbasis aplikasi yang menyediakan layanan ride-sharing atau car-sharing. Mereka memungkinkan pengguna untuk memesan perjalanan melalui aplikasi di ponsel, di mana pengemudi yang terdaftar akan menjemput dan mengantar mereka ke tujuan yang diinginkan.
