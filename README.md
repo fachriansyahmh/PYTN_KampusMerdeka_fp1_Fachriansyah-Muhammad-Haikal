@@ -1,6 +1,6 @@
 # Prediksi Harga Uber dan Lyft di Boston Menggunakan Linear Regression
 
-buka link berikut untuk detail projectnya : <a href="https://github.com/fachriansyahmh/Prediksi_Harga_Uber_dan_Lyft_di_Boston_Menggunakan_Linear_Regression/blob/main/PYTN_KampusMerdeka_FP1_Fachriansyah-Muhammad-Haikal.ipynb" target="_blank">ReadMe</a>
+buka link berikut untuk detail projectnya : <a href="https://github.com/fachriansyahmh/Prediksi_Harga_Uber_dan_Lyft_di_Boston_Menggunakan_Linear_Regression/blob/main/PYTN_KampusMerdeka_FP1_Fachriansyah-Muhammad-Haikal.ipynb" target="_blank">Project</a>
 
 ## Latar Belakang
 
