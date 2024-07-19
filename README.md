@@ -32,7 +32,7 @@ Dataset yang digunakan dalam proyek ini adalah **Uber and Lyft Dataset Boston**,
 
 ## Pengambilan Kesimpulan
 
-### Faktor-Faktor
+### 1. Faktor-Faktor
 
 Dapat diketahui faktor-faktor yang mempengaruhi harga/tarif pada layanan Uber dan Lyft, antara lain:
 
@@ -45,21 +45,21 @@ Dapat diketahui faktor-faktor yang mempengaruhi harga/tarif pada layanan Uber da
 - Kenaikan harga (`surge_pricing`)
 - Cuaca (`short_summary`)
 
-### Akurasi
+### 2. Akurasi
 
 Berdasarkan Coefficient of Determination sebesar 93.30%, model Linear Regression ini dapat memprediksi harga transportasi publik (Uber dan Lyft) dengan akurasi yang tinggi.
 
-### Wawasan
+### 3. Wawasan
 
 Beberapa wawasan yang ditemukan dalam layanan Uber dan Lyft adalah sebagai berikut:
 
-1. **Jam Keberangkatan**:
+a. **Jam Keberangkatan**:
    - Tarif layanan akan meningkat pada jam-jam padat seperti jam berangkat atau pulang kerja. Misalnya, pada jam 07.00 tarif layanan lebih mahal dibandingkan dengan jam keberangkatan yang lebih sepi.
    
-2. **Cuaca**:
+b. **Cuaca**:
    - Tarif layanan akan meningkat pada saat cuaca hujan. Misalnya, biaya layanan lebih murah pada saat cuaca terang dan berawan dibandingkan saat cuaca hujan.
    
-3. **Jenis Layanan**:
+c. **Jenis Layanan**:
    - Perbedaan jenis layanan yang dipilih juga memengaruhi tarif layanan. Misalnya, tarif Lyft XL lebih mahal dibandingkan dengan layanan Lyft biasa.
 
 ## Kesimpulan
